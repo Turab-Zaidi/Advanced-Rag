@@ -15,13 +15,6 @@ Most RAG systems fail when faced with real-world financial documents: 100-page P
 
 
 
-<img width="2230" height="1220" alt="Screenshot 2026-01-30 120411" src="https://github.com/user-attachments/assets/7fc48174-45cc-4e15-be6e-a7a3333b8d65" />
-
-
-
-
-
-
 
 
 ## 🏗️ System Architecture
