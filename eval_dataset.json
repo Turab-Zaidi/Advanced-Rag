@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Based on the 'Comparison of 60 Months Cumulative Total Return' graph, what was the approximate peak value of Tesla's stock investment between 2018 and 2023, and how did it compare to the NASDAQ Composite at that same point?",
+    "ground_truth": "In February 2021, Tesla's cumulative return peaked at approximately $1,700 (starting from a $100 base in Dec 2018). At that same point, the NASDAQ Composite was significantly lower, positioned around the $200 mark on the index scale. "
+  },
+  {
+    "question": "Looking at the 'Revenues' table in the Results of Operations, what was the specific dollar amount of the year-over-year change in 'Automotive regulatory credits' from 2022 to 2023, and what was the percentage increase?",
+    "ground_truth": "The revenue from automotive regulatory credits increased by $14 million (from $1,776 million in 2022 to $1,790 million in 2023). This represented a 1% increase. "
+  },
+  {
+    "question": "List all of Tesla's 'Primary Manufacturing Facilities' and their locations. Which of these facilities are specifically noted as being 'Leased' rather than 'Owned'?",
+    "ground_truth": "Owned facilities include Gigafactory Texas (Austin, TX), Fremont Factory (Fremont, CA), Gigafactory Nevada (Sparks, NV), and Gigafactory Berlin-Brandenburg (Grunheide, Germany). Leased facilities are Gigafactory New York (Buffalo, NY) and Megafactory Lathrop (Lathrop, CA). Gigafactory Shanghai is noted as having land use rights. "
+  },
+  {
+    "question": "Under Tesla's 'Clawback Policy,' what is the technical distinction between a 'Big R' restatement and a 'little r' restatement?",
+    "ground_truth": "A 'Big R' restatement refers to an accounting restatement required due to material noncompliance with financial reporting requirements. A 'little r' restatement refers to a correction of an error that is not material to previously issued statements but would result in a material misstatement if the error were corrected in the current period or left uncorrected. "
+  },
+  {
+    "question": "Identify the individuals who signed the 10-K as the Principal Executive Officer and the Principal Financial Officer. On what specific date was the document officially signed?",
+    "ground_truth": "The Principal Executive Officer is Elon Musk and the Principal Financial Officer is Vaibhav Taneja. The document was signed on January 26, 2024. "
+  },
+  {
+    "question": "In the 'Risks Related to Our Operations' section, what specific concerns are raised regarding the storage and handling of lithium-ion cells at Tesla's facilities?",
+    "ground_truth": "High volumes of lithium-ion cells are stored and recycled at various facilities. On rare occasions, these cells can rapidly release energy by venting smoke and flames, which can ignite nearby materials or other cells. The document states there is no assurance that safety procedures will prevent disruptions to operations or harm to the brand. "
+  }
+]
